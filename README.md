@@ -1,1 +1,1 @@
-# Data-Viz---Python
+# Data Mining and Analytics with Python
